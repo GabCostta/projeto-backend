@@ -3,7 +3,7 @@ import express from "express";
 // CONTROLLERS
 import { getAllUsers, getUserById, updateUser, deleteUser  } from "../Controllers/UserController.js";
 import { authController } from "../Controllers/authController.js";
-import { getAllCategories, getCategoryById, createCategory, updateCategory, deleteCategory } from "../Controllers/Cjs";
+import { getAllCategories, getCategoryById, createCategory, updateCategory, deleteCategory } from "../Controllers/CategoryController.js";
 import { getAllProducts, getProductById, createProduct, updateProduct, deleteProduct } from "../Controllers/ProductController.js";
 export const router = express.Router();
 
