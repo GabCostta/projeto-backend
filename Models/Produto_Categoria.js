@@ -1,8 +1,8 @@
 import { Sequelize } from "sequelize";
 import { DBconfig } from "../Config/db.js";
 
-import { Categoria } from "./1.Categoria.js";
-import { Produto } from "./4.Produto.js";
+import { Categoria } from "./Categoria.js";
+import { Produto } from "./Produto.js";
 
 export const Produtos_Categoria = DBconfig.define("produtos_categoria", {})
 

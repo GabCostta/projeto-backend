@@ -1,4 +1,4 @@
-import { Categoria } from "../Models/1.Categoria.js";
+import { Categoria } from "../Models/Categoria.js";
 
 /**
  * @swagger

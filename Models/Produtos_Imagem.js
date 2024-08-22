@@ -1,8 +1,8 @@
 import { Sequelize } from "sequelize";
 import { DBconfig } from "../Config/db.js";
 
-import { Image } from "./3.Image.js";
-import { Produto } from "./4.Produto.js";
+import { Image } from "./Image.js";
+import { Produto } from "./Produto.js";
 
 
 export const Produtos_Imagem = DBconfig.define("produtos_imagem", {})

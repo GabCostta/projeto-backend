@@ -1,7 +1,7 @@
 import { Sequelize } from "sequelize";
 import { DBconfig } from "../Config/db.js";
 
-import { Produto } from "./4.Produto.js";
+import { Produto } from "./Produto.js";
 
 export const Produtos_Opcoes = DBconfig.define("produtos_opcoes", {
   titulo: {

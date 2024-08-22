@@ -1,6 +1,6 @@
-import { Produto } from "../Models/4.Produto.js";
-import { Produtos_Imagem } from '../Models/6.Produtos_Imagem.js';
-import { Image } from '../Models/3.Image.js';
+import { Produto } from "../Models/Produto.js";
+import { Produtos_Imagem } from '../Models/Produtos_Imagem.js';
+import { Image } from '../Models/Image.js';
 
 /**
  * @swagger
