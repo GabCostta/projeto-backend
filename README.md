@@ -113,7 +113,3 @@ A estrutura do projeto foi organizada para facilitar a manutenção e escalabili
 - **Integração com Frontend**: A integração com o frontend ainda não foi implementada neste projeto.
 - **Testes Automatizados**: Testes automatizados não foram aplicados. É recomendada a adição de testes para garantir a qualidade do código.
 
-## Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests. Antes de contribuir, por favor, leia o [CONTRIBUTING.md](CONTRIBUTING.md) (se aplicável) para detalhes sobre o processo de contribuição.
-
